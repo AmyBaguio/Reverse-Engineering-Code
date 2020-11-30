@@ -42,6 +42,6 @@ THEN I understand the codebase
 
 ## Please click on the link below to know more about the App and each file explained as to its importance, purpose, and relationship with each other. 
 
-* [Google Docs Link](https://docs.google.com/document/d/1iXjN9wT9D4ZOwYZ7h9uik88VdCH2BOtKR-mjizEHV6E/edit?usp=sharing).
+* [Google Docs Link](https://docs.google.com/document/d/1ugYSkz4NrAh1f_C-Km3pjkxhmz4DnC2QQB_oFvSwBnI/edit?usp=sharing).
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
